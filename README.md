@@ -47,3 +47,7 @@ curl -X POST https://{slug}.vercel.app/bulk \
 
 ## Monetization
 List on RapidAPI for $15/month team plan.
+
+
+## Postman
+[![Run in Postman](https://run.pstmn.io/button.svg)](https://raw.githubusercontent.com/BT-Builds/url-metadata/main/postman_collection.json)
